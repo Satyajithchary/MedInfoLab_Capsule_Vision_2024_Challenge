@@ -104,7 +104,3 @@ If you find this work useful, please consider citing us:
 ## 🎉 Acknowledgments
 
 Thanks to Capsule Vision 2024 Challenge organizers, BiomedCLIP-PubMedBERT developers, and our collaborators for their invaluable support.
-
---- 
-
-This README introduces the project and provides interactive and easy-to-follow instructions for users interested in running, understanding, or contributing to this research.

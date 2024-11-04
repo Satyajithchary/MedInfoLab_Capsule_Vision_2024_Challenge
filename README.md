@@ -50,6 +50,7 @@ Our solution is based on **BiomedCLIP-PubMedBERT**, a fine-tuned multimodal mode
 
 The model was fine-tuned with batches of 32 images over 3 epochs. Performance was evaluated using multiple metrics, including **accuracy, precision, recall,** and **F1-score**. The fine-tuning enabled efficient learning and precise classification across the dataset's diverse classes.
 
+![Training and Testing](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/final_training_history)
 ## 📊 Results
 
 The model demonstrated high accuracy across most abnormality classes, achieving:

@@ -87,14 +87,6 @@ Our project opens doors for further enhancement:
    ```bash
    git clone https://github.com/Satyajith/MedInfoLab_Capsule_Vision_2024_Challenge.git
    ```
-2. **Setup Environment**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run Training**:
-   ```bash
-   python src/train_model.py
-   ```
 
 ## 💼 Citation
 

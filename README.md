@@ -50,7 +50,7 @@ Our solution is based on **BiomedCLIP-PubMedBERT**, a fine-tuned multimodal mode
 
 The model was fine-tuned with batches of 32 images over 3 epochs. Performance was evaluated using multiple metrics, including **accuracy, precision, recall,** and **F1-score**. The fine-tuning enabled efficient learning and precise classification across the dataset's diverse classes.
 
-![Training and Testing](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/final_training_history)
+![Training and Testing](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/final_training_history.jpg)
 ## 📊 Results
 
 The model demonstrated high accuracy across most abnormality classes, achieving:
@@ -59,7 +59,7 @@ The model demonstrated high accuracy across most abnormality classes, achieving:
 - **F1 Score**: High scores, particularly in distinct classes like **Foreign Body** and **Normal**.
 - **Challenges**: Slightly lower precision for visually similar classes, such as **Erosion** and **Ulcer**.
   
-![Final_per_Class_Metrics_training](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/final_per_class_metrics_training)
+![Final_per_Class_Metrics_training](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/final_per_class_metrics_training.jpg)
 ## 🚀 Future Directions
 
 Our project opens doors for further enhancement:

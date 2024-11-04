@@ -12,6 +12,7 @@ The project's primary objective is to streamline the diagnostic process by autom
 
 Video Capsule Endoscopy (VCE) captures thousands of gastrointestinal tract images, presenting a substantial challenge for manual interpretation. Traditional diagnostic workflows can be slow and are prone to errors due to fatigue. Our solution aims to automate this task, allowing for faster and more accurate classification of common abnormalities to improve clinical efficiency.
 
+![Capsule Vision Challenge 2024](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/CVC_2024_Headeer.jpg.png)
 ### Dataset
 
 This project utilizes a **diverse dataset** of VCE frames provided by the Capsule Vision Challenge. The dataset encompasses **ten classes** representing different gastrointestinal abnormalities, including:
@@ -72,11 +73,12 @@ Our project opens doors for further enhancement:
 
 ```bash
 📂 Capsule_Vision_Challenge_2024
-├── 📂 data                # Dataset and metadata files
-├── 📂 notebooks           # Jupyter notebooks for experiments
-├── 📂 src                 # Main scripts for data processing and model training
-├── 📄 README.md           # Project documentation
-└── 📄 LICENSE             # License details
+├── 📂 Final_Report_With_Result                           # Final Report with proper Results
+├── 📂 Generated_Excel_Files                              # Results of Training, Validation and Testing Data 
+├── 📂 Visualization_of_Results                           # Graphs of Outputs for comparison
+├── 📄 README.md                                          # Project documentation
+└── 📄 medinfolab-capsule-vision-2024-challenge.ipynb     # Main scripts for data processing and model training
+└── 📄 LICENSE                                            # License details
 ```
 
 ## 🔗 Usage

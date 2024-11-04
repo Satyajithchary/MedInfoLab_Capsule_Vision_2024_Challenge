@@ -35,7 +35,7 @@ Our solution is based on **BiomedCLIP-PubMedBERT**, a fine-tuned multimodal mode
 
 - **Vision Transformer (ViT)**: Extracts detailed features from the endoscopic images.
 - **PubMedBERT**: Processes text embeddings of abnormality classes for precise classification.
-- 
+  
 ![Pipeline of Project](https://github.com/user-attachments/assets/71b6b77e-4d98-4fe5-bc9d-0b3383acbc31)
 
 ### Model Architecture
@@ -56,7 +56,7 @@ The model demonstrated high accuracy across most abnormality classes, achieving:
 - **Precision and Recall**: Balanced scores across categories, indicating minimal false positives/negatives.
 - **F1 Score**: High scores, particularly in distinct classes like **Foreign Body** and **Normal**.
 - **Challenges**: Slightly lower precision for visually similar classes, such as **Erosion** and **Ulcer**.
-- 
+  
 ![Final_per_Class_Metrics_training](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/final_per_class_metrics_training)
 ## 🚀 Future Directions
 

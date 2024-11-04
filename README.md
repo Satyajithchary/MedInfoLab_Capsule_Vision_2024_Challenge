@@ -36,7 +36,8 @@ Our solution is based on **BiomedCLIP-PubMedBERT**, a fine-tuned multimodal mode
 - **Vision Transformer (ViT)**: Extracts detailed features from the endoscopic images.
 - **PubMedBERT**: Processes text embeddings of abnormality classes for precise classification.
   
-![Pipeline of Project](https://github.com/user-attachments/assets/71b6b77e-4d98-4fe5-bc9d-0b3383acbc31)
+![Pipeline of Project](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/Pipeline_of_Project.jpg)
+
 
 ### Model Architecture
 

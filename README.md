@@ -59,7 +59,7 @@ The model demonstrated high accuracy across most abnormality classes, achieving:
 - **Precision and Recall**: Balanced scores across categories, indicating minimal false positives/negatives.
 - **F1 Score**: High scores, particularly in distinct classes like **Foreign Body** and **Normal**.
 - **Challenges**: Slightly lower precision for visually similar classes, such as **Erosion** and **Ulcer**.
-- After 3 Epochs **Training Accuracy** is **96.17%** and **Validation Accuracy** is **94.04%**.
+- After 3 Epochs **Training Accuracy** is **97.75%** and **Validation Accuracy** is **94.04%**.
   
 ![Final_per_Class_Metrics_training](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/final_per_class_metrics_training.jpg)
 ## 🚀 Future Directions

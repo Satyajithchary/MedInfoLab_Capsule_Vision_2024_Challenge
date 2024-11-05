@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-Welcome to our project on **Endoscopic Image Classification Using BiomedCLIP-PubMedBERT**! This repository contains our code and insights from the Capsule Vision 2024 Challenge, where we developed a multimodal approach to accurately classify abnormalities in Video Capsule Endoscopy (VCE) images to aid gastrointestinal diagnostics.
+Welcome to our project on **Endoscopic Image Classification Using BiomedCLIP-PubMedBERT**! This repository contains our code and insights from the Capsule Vision 2024 Challenge, where we developed a multimodal approach to accurately classify abnormalities in Video Capsule Endoscopy (VCE) images to aid gastrointestinal diagnostics with a **Training Accuracy of 97.75%** and **Validation Accuracy is 94.06%**
 
 The project's primary objective is to streamline the diagnostic process by automating abnormality detection in VCE images, potentially reducing clinician workload and enhancing diagnostic precision.
 

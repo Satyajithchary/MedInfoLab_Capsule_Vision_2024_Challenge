@@ -15,7 +15,7 @@ Video Capsule Endoscopy (VCE) captures thousands of gastrointestinal tract image
 ![Capsule Vision Challenge 2024](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge/blob/main/Visualization_of_Results/CVC_2024_Headeer.jpg.png)
 ### Dataset
 
-This project utilizes a **diverse dataset** of VCE frames provided by the Capsule Vision Challenge. The dataset encompasses **ten classes** representing different gastrointestinal abnormalities, including:
+This project utilizes a **diverse dataset** of VCE frames provided by the **Capsule Vision Challenge 2024**. The dataset encompasses **ten classes** representing different Gastrointestinal Abnormalities, including:
 
 - **Angioectasia**
 - **Bleeding**
